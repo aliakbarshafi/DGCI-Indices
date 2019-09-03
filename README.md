@@ -1,2 +1,2 @@
 # DGCI-Indices
-Is the Grass greener anymore?
+Is the Grass green anymore?
